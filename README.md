@@ -42,5 +42,3 @@ Program se skládá z jednoduché smyčky `do-while`, která zajišťuje:
 1. Spusťte program v prostředí, které podporuje Javu.
 2. Zadejte, kdo získal bod (`1` pro domácí, `2` pro hosty).
 3. Sledujte, jak se skóre mění, a pokračujte, dokud jeden z hráčů nevyhraje zápas.
-
-### Ukázka výstupu:
